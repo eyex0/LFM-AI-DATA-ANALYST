@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Data Analyst",
+  "description": "LFM AI Analyst delivers interactive executive dashboards, autonomous Excel analytics, and deep business intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
